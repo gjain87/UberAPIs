@@ -1,6 +1,4 @@
 # Uber Application
-### ▶️ Watch the Full Video on YouTube: [Uber-App](https://www.youtube.com/watch?v=Cdx4DF9N8d8)
-## YouTube Series: How Uber Works Under The Hood
 
 ---
 
